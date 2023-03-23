@@ -16,7 +16,7 @@ body {
         if this headline wasn't so absolutist.
     **/
     h1 {
-        position: absolute;
+        position: relative;
     }
 }
 
